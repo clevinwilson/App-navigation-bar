@@ -213,3 +213,9 @@ a {
     margin-right: 10px;
     border-radius: 50%;
 }
+
+@media screen and (max-width: 764px) {
+    .nav-menu {
+        padding: 20px !important;
+    }
+}
